@@ -1,4 +1,4 @@
-# Olá, eu sou Cíntia!
+# Conteúdo aplicado na mentoria da Cloud Girls
 
 
 
