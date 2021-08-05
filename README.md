@@ -1,1 +1,2 @@
-# Curso-Alura
+# Conteúdo aplicado na mentoria da Cloud Girls
+
